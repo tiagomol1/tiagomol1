@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Tiago Murilo
+My name is Tiago Murilo, I’am from Brazil 🇧🇷. I’am a Fullstack Developer and a big enthusiast about technology.
+
+Problem solving and learning is the way. Always open to challenges and ready to face changes.
+
+📍From SC living in Joinville.
+👨‍💻 Backend Developer at Grupo Prime
+Languages and Tools
