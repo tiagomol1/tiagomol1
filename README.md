@@ -1,4 +1,5 @@
 # Tiago Murilo
+#### Fullstack Developer
 
 <!--
 **tiagomol1/tiagomol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 Hi! 👋
-I’am from Brazil 🇧🇷. I am a Fullstack Developer and a big technology enthusiast.
+I’am from Brazil 🇧🇷. I'am a big technology enthusiast.
 
 Problem solving and learning is the way. Always open to challenges and ready to face changes.
 
