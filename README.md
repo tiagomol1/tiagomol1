@@ -1,4 +1,4 @@
-### Hi there 👋
+## Tiago Murilo
 
 <!--
 **tiagomol1/tiagomol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tiago Murilo
-My name is Tiago Murilo, I’am from Brazil 🇧🇷. I’am a Fullstack Developer and a big enthusiast about technology.
+Hi! 👋
+I’am from Brazil 🇧🇷. I am a Fullstack Developer and a big technology enthusiast.
 
 Problem solving and learning is the way. Always open to challenges and ready to face changes.
 
 📍From SC living in Joinville.
 👨‍💻 Backend Developer at Grupo Prime
-Languages and Tools
+
+<h1>Languages and Tools</h1>
