@@ -1,4 +1,4 @@
-## Tiago Murilo
+# Tiago Murilo
 
 <!--
 **tiagomol1/tiagomol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,4 @@ Problem solving and learning is the way. Always open to challenges and ready to 
 📍From SC living in Joinville.
 👨‍💻 Backend Developer at Grupo Prime
 
-<h1>Languages and Tools</h1>
+### Languages and Tools
