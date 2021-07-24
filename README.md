@@ -12,6 +12,10 @@ Problem solving and learning is the way. Always open to challenges and ready to 
 - 📍 From SC living in Joinville.
 - 👨‍💻 Backend Developer at [Grupo Prime](https://www.grupoprime.inf.br)
 
+<di align='left'> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomol1&layout=compact&theme=Gradient)](https://github.com/tiagomol1/github-readme-stats) 
+
 #### Languages and Tools
 
 <div align="left">
