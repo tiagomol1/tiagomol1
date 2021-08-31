@@ -11,12 +11,10 @@ Problem solving and learning is the way. Always open to challenges and ready to 
 
 - 📍 From SC living in Joinville.
 - 👨‍💻 Backend Developer at [Grupo Prime](https://www.grupoprime.inf.br)
-
-<di align='left'> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomol1&layout=compact&theme=Gradient)](https://github.com/tiagomol1/github-readme-stats) 
-
-#### Languages and Tools
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomol1&layout=compact&theme=Gradient)](https://github.com/tiagomol1/github-readme-stats) 
+ -->
+#### Languages 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -28,19 +26,26 @@ Problem solving and learning is the way. Always open to challenges and ready to 
   <img src="https://img.shields.io/badge/Java-ababab?style=for-the-badge&logo=java&logoColor=ea2526">
   <img src="https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C sharp-9c75d5?style=for-the-badge&logo=csharp&logoColor=white">
+</div>
+  
+#### Databases  
+  
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft SQL Sever-b71c1c?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Sqlite-0f7cc8?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>
+
+#### Tools, Libraries, Frameworks and OS
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/windows-137bd4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextjs&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-F05032?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft SQL Sever-b71c1c?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Sqlite-0f7cc8?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/windows-137bd4?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+</div>  
