@@ -5,9 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tiago.murilo08@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.murilo08@gmail.com)](mailto:tiago.murilo08@gmail.com)
 
 Hi! 👋
-I’am from Brazil 🇧🇷. I'am a big technology enthusiast.
-
-Problem solving and learning is the way. Always open to challenges and ready to face changes.
+I’am from Brazil 🇧🇷. I'am a big technology enthusiast. Always open to challenges and ready to face changes.
 
 - 📍 From SC living in Joinville.
 - 👨‍💻 Backend Developer at [Grupo Prime](https://www.grupoprime.inf.br)
