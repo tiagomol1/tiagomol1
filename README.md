@@ -8,7 +8,7 @@ Hi! 👋
 I’am from Brazil 🇧🇷. I'am a big technology enthusiast. Always open to challenges and ready to face changes.
 
 - 📍 From SC living in Joinville.
-- 👨‍💻 Backend Developer and CTO at [Softjoin](https://www.softjoin.com.br)
+- 👨‍💻 Backend Developer and CTO at [Mailou Dev](https://www.softjoin.com.br)
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomol1&layout=compact&theme=Gradient)](https://github.com/tiagomol1/github-readme-stats) 
  -->
