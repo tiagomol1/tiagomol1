@@ -49,4 +49,5 @@ I’am from Brazil 🇧🇷. I'am a big technology enthusiast. Always open to ch
   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextjs&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Electron-AFE8F7?style=for-the-badge&logo=electron&logoColor=black">
 </div>  
